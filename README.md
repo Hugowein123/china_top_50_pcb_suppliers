@@ -1,5 +1,5 @@
-# china_top_pcb_suppliers
-A no-fluff, hard-earned list of China’s top 50 PCB manufacturers — compiled with 15+ years of hands-on sourcing experience (and probably a few grey hairs). Includes capabilities, certifications, and direct contacts.
+# china_top_50_pcb_suppliers
+A no-fluff, hard-earned list of China’s top 50 PCB manufacturers — compiled with 15+ years of hands-on sourcing experience (and probably a few grey hairs). Includes capabilities, certifications, and direct contacts. Save you a solid decade of trial‑and‑error.
 
 | Company Name | Location | Industry Type | Year Founded | Number of Employees | Main Product | Other Products | Company's Official Website | Profile | Products and Business | Telephone | Email | Advantages | Disadvantages | Star Rating |
 |--------------|----------|---------------|--------------|---------------------|--------------|----------------|---------------------------|---------|-----------------------|-----------|-------|------------|---------------|-------------|
